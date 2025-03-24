@@ -1,4 +1,4 @@
- Hi there! 👋 I'm Faisal Hameed  
+ Hi there! 👋 I'm Faisal Hameed 
 
  🚀 About Me  
 I'm a Front-End Developer passionate about crafting beautiful and efficient web applications. I specialize in HTML, CSS, JavaScript, React and continuously explore new technologies to enhance my skill set.  
@@ -25,8 +25,10 @@ Backend & Tools:
  🔗 coming soon!  
 
 📫 Connect with Me  
- 🌐 Portfolio: coming soon] 
+ 🌐 Portfolio: coming soon
  💼 LinkedIn: faisalhrbk 
  🐦 Twitter: faisalhrbk 
  📧 Email:  faisalhrbk@outlook.com
+
+ editig readme to continue the streak lol
 
