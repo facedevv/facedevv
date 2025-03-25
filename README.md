@@ -23,6 +23,7 @@ Backend & Tools:
 📌 My Projects  
  🚧 ill upload soon  
  🔗 coming soon!  
+ ahh sh@t here we go again
 
 📫 Connect with Me  
  🌐 Portfolio: coming soon
