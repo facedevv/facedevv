@@ -2,11 +2,12 @@
  <br>I'm a passionate **Backend Developer** specializing in **Laravel**.  <br>Currently, I'm a **BS student in GIS & Remote Sensing**, blending geospatial technology with web development.<br>I focus on building scalable and efficient web applications with modern technologies.  <br>With a strong backend foundation, I work extensively with APIs, authentication, and database management. <br> <br>🛠️ Tech Stack  <br>- **Backend:** Laravel (RILT Stack - React, Inertia.js, Laravel, Tailwind CSS)  <br>- **Frontend:**  JavaScript React, Bootstrap, Tailwind CSS  <br>- **Other Skills:** Goolge Earth Engine, , Google Earth Pro, QGis , Basic Python
  <br><br> 
  
- # 🌐Portfolio Website
- <br>       ill link soon....... 
- <br><br><be>
-   ##🚀 Projects
-   <br>ill upload soon
+# 🌐 **Portfolio Website**  
+I'll link it soon...  
+
+## 🚀 **Projects**  
+I'll upload them soon...  
+
 
 
 ## 🌐 Socials:
